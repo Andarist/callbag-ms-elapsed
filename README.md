@@ -33,5 +33,5 @@ const moveBall = (ball, easing) => {
 
 const easeOut = p => 1 - (1 - p) * (1 - p)
 
-moveBall(document.getElementById('#ball'), easeOut)
+moveBall(document.getElementById('ball'), easeOut)
 ```
