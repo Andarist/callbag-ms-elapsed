@@ -1,6 +1,6 @@
 {
   "name": "callbag-ms-elapsed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "👜 Callbag listenable source which emits milliseconds elapsed since the subscription (using requestAnimationFrame) - useful for animations.",
   "main": "dist/callbag-ms-elapsed.js",
   "module": "dist/callbag-ms-elapsed.esm.js",
