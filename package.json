@@ -42,6 +42,7 @@
     "rollup-plugin-babel": "4.0.0-beta.7"
   },
   "dependencies": {
+    "callbag-animation-frames": "^2.0.0",
     "callbag-flatten": "^1.2.0",
     "callbag-lazy": "^1.0.2",
     "callbag-map": "^1.0.1",
