@@ -40,8 +40,8 @@
     "rollup-plugin-babel": "^4.3.2"
   },
   "dependencies": {
-    "callbag-animation-frames": "^2.0.1",
+    "callbag-animation-frames": "^2.1.0",
     "callbag-defer": "^1.0.0",
-    "callbag-map": "^1.0.1"
+    "callbag-map": "^1.1.0"
   }
 }
