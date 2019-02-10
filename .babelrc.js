@@ -11,9 +11,11 @@ module.exports = {
         modules: false,
       },
     ],
+    '@babel/typescript',
   ],
   plugins: [
     test && '@babel/transform-modules-commonjs',
+    'macros',
     'annotate-pure-calls',
   ].filter(Boolean),
 }
